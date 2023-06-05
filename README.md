@@ -14,4 +14,4 @@ FILE: SpecimenIDs_MG.xlsx
 A Microsoft Excel workbook containing the list of the samples used for the geometric morphometric analyses, including the specimen accession numbers at the Natural History Museum, London. The images are in the folder assets/images
 
 FOLDER: assets/images
-Contains 63 images used for geometric morphometric analyses, included for the generation of Lethrinus.TPS
+Contains side-on whole fish images used for geometric morphometric analyses, used for generation of Lethrinus_June2023.TPS
