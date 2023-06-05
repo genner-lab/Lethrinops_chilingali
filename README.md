@@ -7,7 +7,7 @@ Data underpinning the paper "A new species of Lethrinops (Cichliformes: Cichlida
 FILE: Lethrinops_chilingali_Description_Morphometrics_Meristics.xlsx 
 A Microsoft Excel workbook containing the measurements and counts for the Lethrinops chilingali and Lethrinops lethrinus, including the specimen accession numbers at the Natural History Museum, London. Summary statistics are also present in the file. 
 
-FILE: Lethrinus.TPS
+FILE: Lethrinus_June2023.TPS
 A tps file generated using the tps suite of software containing the coordinates of landmarks for geometric morphometric analyses. The images are in the folder assets/images
 
 FILE: SpecimenIDs_MG.xlsx
