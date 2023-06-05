@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/613047244.svg)](https://zenodo.org/badge/latestdoi/613047244)
+
 **Lethrinops chilingali description**
 
 Data underpinning the paper "A new species of Lethrinops (Cichliformes: Cichlidae) from a Lake Malawi satellite lake, believed to be extinct in the wild" by George F. Turner, Denise A. Crampton and Martin J. Genner
